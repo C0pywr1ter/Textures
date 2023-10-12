@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 8b10158e8f4942742b7f98576b1683d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroids-arcade_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0858ddcc9007a749b4a61a7f8fd254a
+      internalID: -1909311024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 226
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62b96410df20145abe72d86eaa2121
+      internalID: -817699222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 225
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fcbadae470fd44884accd27094c69c
+      internalID: 529762735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92344b68396d2724d8bfecf075436605
+      internalID: 198458416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 225
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba940ab6baffb4d88dc1c9cc321a94
+      internalID: 1939970362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 225
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08225a42ef1546745b99c5ccdf4cde42
+      internalID: 67840202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 225
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aaecdd97b39fa42b9411a6695a144e
+      internalID: 388257781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 226
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c174aee5dc95459ca76ff65936c2d
+      internalID: -1474496749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e94f7675c9c945b5e350432428e40
+      internalID: 370519674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 226
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e62faae7c94a4419736b8aeb6c357c
+      internalID: -1589396921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 226
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b339c539a6980445b164533685cc3c8
+      internalID: 717957098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 226
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc85ab30ad7c5645bc9b41d8d0d0daf
+      internalID: 1771304417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ee9abcc418b34093f2cde87e861cf
+      internalID: -1714065588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13a7a5c1bc2514b9ec1b9bb16a7aa0
+      internalID: 1970595313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9079dc1fb2e7564aa759f060899c5fc
+      internalID: -207279422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a014c4c773d74fa9b7573ab53332a
+      internalID: 1939945433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 193
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de00f703732d241bae1be347fec20e
+      internalID: -228689118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcfc71149af5834ea0b74bb93541d9c
+      internalID: 973963764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99516c7363b9348ae3385356a58dbb
+      internalID: 1802669477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 196
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c77771c9b44bb45ae7ba91693953c4
+      internalID: -2126864375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 198
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65abdb0f2138d40ac4359ce2290d63
+      internalID: -1993889715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b388c72fffdc458961e805e7070a6
+      internalID: 175495870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d5485bc88c3d24aae52dca28c5b1e0
+      internalID: 1303998892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 176
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d501eb0e1f73854babe2f0974f74a63
+      internalID: 1948693723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 176
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0f2181915e0d43a959ab08a0c2ddb
+      internalID: 550644290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f628591473bdf6469025d53733f44e2
+      internalID: -1885509325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6793193913e22c4c99e627c31dc8923
+      internalID: -454794363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a1d8d89322534da88ea5cde7e9067
+      internalID: 654235398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e55fd7d48c0f4b92da9ece63db6c0
+      internalID: 368158453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c265108d44e1e4296b4c3d60b7e215
+      internalID: 1397014263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc915d3acdd79304e9b0887e61324b15
+      internalID: 18798147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9600574fc22fda4eb5de57d6b81a83d
+      internalID: -1430825287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a069a09df9f7f843afd52e1cf41d8e6
+      internalID: 1223647928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf495b166569164886173b5e4bb182a
+      internalID: -1084773323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 49
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1fca80c8a94d4680db57df7c02175
+      internalID: 749863051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c0874324b12349bffde91a112806d
+      internalID: -1577551524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635a7f5737dcc1440a1bfc5329b63b38
+      internalID: -427310169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9ded4bfd45ad47a375ae4662be10f
+      internalID: 365581656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d193dc864ba974b942dd2ecbbde2ca
+      internalID: -2066492153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85d9614fe96734482b39f1c3fb073e
+      internalID: 319424967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe61f5b91cae4144b3221951a8b39a9
+      internalID: -1470310975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060c6509b9078a4b99e0f0f0f81657f
+      internalID: -53913699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeef140330510342809dc9da39640b8
+      internalID: 1749724933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180472c2679d914cacb54465176e057
+      internalID: 1416931891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426ebe9d2d02434ba891b0d37aa54a6
+      internalID: -108030276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9761f00a774a9f94bb41f5f8293a05ff
+      internalID: 544161743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_53
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdad2563139e1e4eba433565dcc683c
+      internalID: 792715718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a31d07fc156d0469567f3f089024b3
+      internalID: 2001101251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3848581c3d9a4184f7eba0db777ab
+      internalID: 1474972678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f80d527e925f7b4d8c2b7239ecdd078
+      internalID: 1003800837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6725ec9a32104e89f3f19fe89ddbb
+      internalID: 1323699673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids-arcade_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1f69042c0ccb47a7751162bc5bff6
+      internalID: -248149934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bc458eb5e4c7fa84c9cd98895d4945e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      asteroids-arcade_35: -1084773323
+      asteroids-arcade_2: 529762735
+      asteroids-arcade_57: 1323699673
+      asteroids-arcade_15: 1939945433
+      asteroids-arcade_23: 1948693723
+      asteroids-arcade_4: 1939970362
+      asteroids-arcade_29: -248149934
+      asteroids-arcade_44: 443574251
+      asteroids-arcade_10: 717957098
+      asteroids-arcade_36: 749863051
+      asteroids-arcade_28: 368158453
+      asteroids-arcade_55: 1474972678
+      asteroids-arcade_25: -1885509325
+      asteroids-arcade_33: -1430825287
+      asteroids-arcade_45: -1470310975
+      asteroids-arcade_9: -1589396921
+      asteroids-arcade_13: 1970595313
+      asteroids-arcade_56: 1003800837
+      asteroids-arcade_40: -427310169
+      asteroids-arcade_31: 1397014263
+      asteroids-arcade_30: -1553128451
+      asteroids-arcade_21: 175495870
+      asteroids-arcade_8: 370519674
+      asteroids-arcade_38: -1463601887
+      asteroids-arcade_0: -1909311024
+      asteroids-arcade_1: -817699222
+      asteroids-arcade_48: 1416931891
+      asteroids-arcade_20: -1993889715
+      asteroids-arcade_51: -108030276
+      asteroids-arcade_3: 198458416
+      asteroids-arcade_12: -1714065588
+      asteroids-arcade_19: -2126864375
+      asteroids-arcade_32: 18798147
+      asteroids-arcade_11: 1771304417
+      asteroids-arcade_39: -759690006
+      asteroids-arcade_37: -1577551524
+      asteroids-arcade_43: 319424967
+      asteroids-arcade_18: 1802669477
+      asteroids-arcade_42: -2066492153
+      asteroids-arcade_7: -1474496749
+      asteroids-arcade_16: -228689118
+      asteroids-arcade_53: 792715718
+      asteroids-arcade_46: -53913699
+      asteroids-arcade_54: 2001101251
+      asteroids-arcade_49: 462446801
+      asteroids-arcade_41: 365581656
+      asteroids-arcade_5: 67840202
+      asteroids-arcade_52: 544161743
+      asteroids-arcade_34: 1223647928
+      asteroids-arcade_26: -454794363
+      asteroids-arcade_17: 973963764
+      asteroids-arcade_47: 1749724933
+      asteroids-arcade_22: 1303998892
+      asteroids-arcade_6: 388257781
+      asteroids-arcade_27: 654235398
+      asteroids-arcade_24: 550644290
+      asteroids-arcade_50: 146369863
+      asteroids-arcade_14: -207279422
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
